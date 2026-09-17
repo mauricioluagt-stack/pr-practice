@@ -4,7 +4,7 @@ A tiny toy project for practicing the GitHub pull request workflow.
 
 ## What it does
 
-This repo provides a single `add` function that returns the sum of two numers.
+This repo provides a single `add` function that returns the sum of two numbers.
 
 ## Usage
 
